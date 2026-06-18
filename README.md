@@ -37,12 +37,15 @@ LONDON_CRIME_ANALYTICS
 │
 ├── dash
 │   └── london_crime_dashboard.pbix
+│   └── Pagina_1.png
+│   └── Pagina_2.png
+│   └── InsightsObtidos.md
 │
 ├── prints
-│   ├── print_01_Consulta_realizada.png
-│   ├── print_02_schema_tabela_salva.png
-│   └── print_03_preview_dados.png
-│   └── Todas as prints de consultas│
+│   ├── print_01_Consulta_utlizada_para_salvar.png
+│   ├── print_02_dados_salvos_no_meu_projeto.png
+│   └── print_03_Salvo_dentro_meu_projeto.png
+│   └── Todas_as_prints_de_consultas
 │
 ├── scripts
 │   ├── importacao.py
